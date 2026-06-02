@@ -8,7 +8,7 @@ const numCPUs = os.cpus().length;
 /**
  * CONFIGURAÇÃO
  */
-const CONCURRENCY_PER_WORKER = 25;
+const CONCURRENCY_PER_WORKER = 1;
 const TIMEOUT = 500;
 
 /**
